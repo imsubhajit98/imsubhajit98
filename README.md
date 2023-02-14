@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **intern on Oasis Infobyte**
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **React JS, DSA**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
